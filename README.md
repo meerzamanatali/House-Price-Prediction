@@ -1,6 +1,8 @@
 # House-Price-Prediction
 ### Project Overview
 House Price Prediction Web Application in Flask
+
+
 The House Price Prediction project is a web-based application designed to estimate the price of residential properties based on various input features. Utilizing a Ridge regression model, this application provides users with a straightforward interface to input property details and obtain a predicted price.
 
 ### Key Features:
